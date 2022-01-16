@@ -1,0 +1,83 @@
+/* Style the navigation bar */
+.minibar {
+    width: 720px;
+    overflow: auto;
+    margin-left: 600px;
+    margin-right: auto;
+    margin-top: 20px;
+}
+  
+/* Navbar links */
+.minibar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+/* Navbar links on mouse-over */
+.minibar a:hover {
+    opacity: 0.9;
+}
+
+.box{
+    height: 300px;
+    width: 850px;
+    border-radius: 5px;
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat, repeat;
+    margin-left: 450px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+.box h1{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.box .overall-music{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.discover{
+    margin-left: 450px;
+    margin-top: 40px;
+    margin-right: 600px;
+}
+
+.discover h1{
+    padding-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+.why{
+    margin-left: 450px;
+    margin-top: 40px;
+    margin-right: 600px;
+}
+
+.why h1{
+    padding-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+.youtube{
+    height: 300px;
+    width: 850px;
+    border-radius: 5px;
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat, repeat;
+    margin-left: 450px;
+    margin-right: 100px;
+    margin-top: 20px;
+}

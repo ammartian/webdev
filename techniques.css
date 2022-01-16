@@ -1,0 +1,43 @@
+.row .col-md-12 h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.row .col-md-12 h6{
+  text-align: center;
+  font-size: 15px;
+  margin-top: 10px;
+  color: black;
+  opacity: 0.4;
+}
+
+.row .text-center{
+    margin-top: 10px;
+}
+
+.overall{
+  margin-left: 570px;
+  margin-right: 80px;
+  margin-top: 20px;
+}
+
+.card img{
+  width: 400px;
+  height: 200px;
+}
+
+.blog{
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 20px;
+}
+
+.blog p{
+  margin-top: 50px;
+  text-align: justify;
+}
+
+.blog img{
+  height: 350px;
+  width: 910px;
+}
